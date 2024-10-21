@@ -1,4 +1,4 @@
-## Hi there 👋
+## The page of Daniel Akinola's projects and work
 
 <!--
 **danielakinola04/danielakinola04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
